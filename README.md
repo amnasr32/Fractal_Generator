@@ -1,4 +1,4 @@
-# Fractal Generator
+# Fractal Generator (projet réalisé en binôme)
 
 
 ##1) Pour lancer l'interface textuelle de notre projet :
