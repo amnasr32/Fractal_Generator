@@ -1,9 +1,5 @@
 # Fractal Generator
-## Présentation de l'équipe:
 
-MIKIA Benidy 21958639
-
-NASR Amira 21965931
 
 ##1) Pour lancer l'interface textuelle de notre projet :
       se placer dans le dossier src et puis lancer ces commandes :
